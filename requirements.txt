@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 aiohttp==3.9.1
 aiosignal==1.3.1
 annotated-types==0.6.0
@@ -63,7 +62,6 @@ wasabi==1.1.2
 weasel==0.3.4
 xxhash==3.4.1
 yarl==1.9.4
-=======
 aiohttp==3.9.1
 aiosignal==1.3.1
 annotated-types==0.6.0
@@ -128,4 +126,3 @@ wasabi==1.1.2
 weasel==0.3.4
 xxhash==3.4.1
 yarl==1.9.4
->>>>>>> dbd822476b8ec19ea161fb950b7ab844852ca74a

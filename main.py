@@ -6,7 +6,7 @@ from sklearn.metrics import precision_score, recall_score, f1_score
 from data_processing import preprocess_data
 from ner_model import NERModel
 
-# train.py
+# train.py 
 def train(model, optimizer, criterion, input_data, target_data, vocab):
     if vocab is None:
         vocab = {} # Create an empty vocabulary if not provided
